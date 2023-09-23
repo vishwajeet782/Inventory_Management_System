@@ -1,0 +1,22 @@
+credentials:
+  usernames:
+    vishal:
+      email: admin.sales@gmail.com
+      name: Vishal Jadhav
+      password: $2b$12$u8O7yyNPxrca2sjWIRugpubXZdfeZCOq8S7oyTtl69W6QJ9iRtK7W
+
+   #vishwajeet:
+      #email: admin.purchases@gmail.com
+      #name: Vishwajeet
+      #password: $2b$12$PYzk8KvNEW3XmukXyhnIX.ui3X2Bc1r1Ku8d4gqzntGaVvlVd3RyS
+    vaibhav:
+      email: any
+      name: Vaibhav
+      password: #$2b$12$6r0awxnKlk2NhJJjocnLnuemxaO5l5ux/m0Zr4WPkoZrD1ljqlQ/S  
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+    -
